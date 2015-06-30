@@ -1,0 +1,10 @@
+{
+    "name": "Mission1",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Mission1.xml",
+    "author": "CommanderBlu",
+    "minimum_firmware_version": 42
+}
